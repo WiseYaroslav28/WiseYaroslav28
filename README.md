@@ -5,9 +5,9 @@
 **Архитектор ИИ-систем • Разработка агентных инструментов (MCP / CDP / Electron) • Нативные приложения на Rust & Tauri**  
 *AI Systems Architect • Agentic IDE Tooling & Automation • Desktop Software Engineering*
 
-[![YouTube](https://img.shields.io/badge/▶️_YouTube-Видеообзоры-FF0000?style=for-the-badge)](https://www.youtube.com/shorts/sucYFc3UqpM)
-[![Habr](https://img.shields.io/badge/📖_Хабр-Статьи-65A3BE?style=for-the-badge)](https://habr.com/ru/articles/1104106/)
-[![VC.ru](https://img.shields.io/badge/📰_VC.ru-Блог-E84393?style=for-the-badge)](https://vc.ru/id6168328/3229744-rusifikator-google-antigravity-2-0-avtoobnovleniem-cherez-mcp)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-@Yaroslav__Wise-FF0000?style=for-the-badge)](https://www.youtube.com/@Yaroslav_Wise)
+[![Habr](https://img.shields.io/badge/📖_Хабр-@Wise__Yaroslav-65A3BE?style=for-the-badge)](https://habr.com/ru/users/Wise_Yaroslav/)
+[![VC.ru](https://img.shields.io/badge/📰_VC.ru-Блог_автора-E84393?style=for-the-badge)](https://vc.ru/id6168328)
 [![Order Custom Dev](https://img.shields.io/badge/💬_Заказать_разработку-GitHub_Request-10b981?style=for-the-badge)](https://github.com/WiseYaroslav28/antigravity-features-v2/issues/new/choose)
 
 </div>
